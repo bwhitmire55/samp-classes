@@ -13,7 +13,7 @@ sampctl package install bwhitmire55/samp-classes
 Include in your code and begin using the library:
 
 ```pawn
-#include <samp-classes>
+#include <classes>
 ```
 
 ## Functions
